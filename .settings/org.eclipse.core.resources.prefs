@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/dashboard.jsp=UTF-8
+encoding//WebContent/admin/installers.jsp=UTF-8
+encoding//WebContent/admin/requests.jsp=UTF-8
+encoding//WebContent/admin/residents.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/login/installer-login.jsp=UTF-8
+encoding//WebContent/login/resident-login.jsp=UTF-8
+encoding//WebContent/resident/applications.jsp=UTF-8
+encoding//src/com/greenwatt/services/ApprovedRequests.java=UTF-8
+encoding//src/com/greenwatt/services/DBConnection.java=UTF-8
+encoding//src/com/greenwatt/services/RequestApproval.java=UTF-8

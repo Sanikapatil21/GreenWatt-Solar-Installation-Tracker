@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="GreenWatt-Government Subsidized Solar Installation Tracker">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="GreenWatt-Government_Subsidized_Solar_Installation_Tracker"/>
+        <property name="java-output-path" value="/GreenWatt-Government Subsidized Solar Installation Tracker/build/classes"/>
+    </wb-module>
+</project-modules>
