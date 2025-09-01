@@ -58,6 +58,15 @@ The platform provides a **centralized system** to track resident applications, a
 
 ---
 
+## Screenshots <a name="screenshots"></a>
+**Admin Module**
+- Admin Dashboard
+
+- Requests Management
+
+- Subsidy Reports
+
+
 ## Installation and Setup <a name="installation-and-setup"></a>
 
 1. **Clone the Repository**
