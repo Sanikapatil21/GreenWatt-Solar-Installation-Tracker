@@ -75,11 +75,17 @@ The platform provides a **centralized system** to track resident applications, a
 
 **Resident Module**
 - Resident Login Page
-  
+  <img width="1261" height="685" alt="image" src="https://github.com/user-attachments/assets/1bf16843-e2ef-48ba-9f1f-e4bff6d53d0a" />
+
+    
 - Apply for Installation Request
+  <img width="1163" height="682" alt="image" src="https://github.com/user-attachments/assets/839ddc9f-d662-4ea7-86e2-7522119994a9" />
+
 
 **Installer Module**
 - Installer Dashboard
+  <img width="1232" height="691" alt="image" src="https://github.com/user-attachments/assets/a70524df-1674-4678-b581-f1d1cf16cbe3" />
+
 
 
 ## Installation and Setup <a name="installation-and-setup"></a>
