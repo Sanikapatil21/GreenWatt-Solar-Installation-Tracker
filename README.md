@@ -62,4 +62,4 @@ The platform provides a **centralized system** to track resident applications, a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/GreenWatt-Solar-Installation-Tracker.git
+   git clone https://github.com/Sanikapatil21/GreenWatt-Solar-Installation-Tracker.git
