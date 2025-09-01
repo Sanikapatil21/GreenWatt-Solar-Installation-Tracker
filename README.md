@@ -66,6 +66,14 @@ The platform provides a **centralized system** to track resident applications, a
 
 - Subsidy Reports
 
+**Resident Module**
+- Resident Login Page
+  
+- Apply for Installation Request
+
+**Installer Module**
+- Installer Dashboard
+
 
 ## Installation and Setup <a name="installation-and-setup"></a>
 
