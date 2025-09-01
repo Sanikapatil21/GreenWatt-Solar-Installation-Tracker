@@ -1,0 +1,65 @@
+# ☀️ GreenWatt – Government Subsidized Solar Installation Tracker
+
+## Table of Contents
++ [Description](#description)  
++ [Technology](#technology)  
++ [Features](#features)  
++ [Usage](#usage)  
++ [Installation and Setup](#installation-and-setup)  
++ [Screenshots](#screenshots)  
+
+---
+
+## Description <a name="description"></a>
+**GreenWatt** is a Java-based web application that enables **residents, installers, and administrators** to efficiently manage **government-subsidized solar installation programs**.  
+The platform provides a **centralized system** to track resident applications, approve or reject requests, assign installers, monitor project completion, and manage subsidy reports.  
+
+---
+
+## Technology <a name="technology"></a>
+- **Frontend**: JSP, HTML, CSS  
+- **Backend**: Java (Servlets, JDBC)  
+- **Database**: MySQL  
+- **Server**: Apache Tomcat  
+- **IDE**: VS Code / Eclipse  
+- **Version Control**: Git & GitHub  
+
+---
+
+## Features <a name="features"></a>
+
+### 🔹 Resident
+- Register & Login  
+- Apply for Solar Installation Subsidy  
+- View Application Status  
+- Manage Profile & Password  
+
+### 🔹 Installer
+- Login & Manage Assigned Installations  
+- Update Installation Progress  
+- Submit Installation Reports  
+- Change Password  
+
+### 🔹 Admin
+- Admin Login & Dashboard  
+- Manage Residents & Installers  
+- Approve / Reject Installation Requests  
+- Assign Installers to Residents  
+- Generate Subsidy Reports  
+- Track Completed Installations  
+
+---
+
+## Usage <a name="usage"></a>
+1. **Residents** register and submit subsidy requests for solar installations.  
+2. **Admin** reviews requests, approves/rejects them, and assigns installers.  
+3. **Installers** complete installations and submit progress reports.  
+4. **System** generates subsidy and installation reports for monitoring.  
+
+---
+
+## Installation and Setup <a name="installation-and-setup"></a>
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/GreenWatt-Solar-Installation-Tracker.git
