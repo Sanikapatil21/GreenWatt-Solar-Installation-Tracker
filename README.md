@@ -21,7 +21,7 @@ The platform provides a **centralized system** to track resident applications, a
 - **Backend**: Java (Servlets, JDBC)  
 - **Database**: MySQL  
 - **Server**: Apache Tomcat  
-- **IDE**: VS Code / Eclipse  
+- **IDE**: Eclipse  
 - **Version Control**: Git & GitHub  
 
 ---
