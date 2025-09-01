@@ -61,6 +61,12 @@ The platform provides a **centralized system** to track resident applications, a
 ## Screenshots <a name="screenshots"></a>
 **Admin Module**
 - Admin Dashboard
+  <img width="1278" height="680" alt="image" src="https://github.com/user-attachments/assets/7f224983-99b1-48cb-9a8f-b3b62f82db3c" />
+  ---
+  <img width="1252" height="690" alt="image" src="https://github.com/user-attachments/assets/29a6cf08-e772-48b3-9337-9553742a6281" />
+
+
+
 
 - Requests Management
 
