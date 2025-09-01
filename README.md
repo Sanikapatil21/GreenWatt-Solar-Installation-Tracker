@@ -69,6 +69,8 @@ The platform provides a **centralized system** to track resident applications, a
 
 
 - Requests Management
+- <img width="1233" height="666" alt="image" src="https://github.com/user-attachments/assets/fba35915-c341-4388-881c-d0c23685a098" />
+
 
 - Subsidy Reports
 
