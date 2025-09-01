@@ -66,13 +66,12 @@ The platform provides a **centralized system** to track resident applications, a
   <img width="1252" height="690" alt="image" src="https://github.com/user-attachments/assets/29a6cf08-e772-48b3-9337-9553742a6281" />
 
 
-
-
 - Requests Management
-- <img width="1233" height="666" alt="image" src="https://github.com/user-attachments/assets/fba35915-c341-4388-881c-d0c23685a098" />
-
+  <img width="1233" height="666" alt="image" src="https://github.com/user-attachments/assets/fba35915-c341-4388-881c-d0c23685a098" />
 
 - Subsidy Reports
+  <img width="1241" height="664" alt="image" src="https://github.com/user-attachments/assets/10e1d723-ed5c-4d8d-925b-b1e455c5d942" />
+
 
 **Resident Module**
 - Resident Login Page
